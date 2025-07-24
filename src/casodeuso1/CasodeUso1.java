@@ -18,5 +18,7 @@ public class CasodeUso1 {
         // TODO code application logic here
     }
     /*Erick papa/
+    /Jajajajajajajajjjjjja wicho ultra gay
+    */
     
 }
